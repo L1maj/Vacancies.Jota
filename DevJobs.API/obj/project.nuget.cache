@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rbsh2jvQUd3NxcQz+ubQ49BY/wuqj8q7EUrTMSaY4Hw86VLAMp1M6ziC5tSwsFJj6b156R2+fnV+0nCvT73Ufw==",
+  "success": true,
+  "projectFilePath": "C:\\Jornada.NET\\DevJobs.API\\DevJobs.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jota\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jota\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jota\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jota\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jota\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jota\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
